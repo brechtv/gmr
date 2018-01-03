@@ -378,3 +378,22 @@ var ARRONDISSEMENTS = [
         ]
     }
 ];
+
+var PLAYERS = [
+    {
+        "player_name": "Player 1",
+        "player_id": 1
+    },
+    {
+        "player_name": "Player 2",
+        "player_id": 2
+    },
+    {
+        "player_name": "Player 3",
+        "player_id": 3
+    },
+    {
+        "player_name": "Player 4",
+        "player_id": 4
+    }
+]
